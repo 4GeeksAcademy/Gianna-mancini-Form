@@ -1,0 +1,33 @@
+form {
+    padding: 40px; 
+    margin-left: 1px; 
+    margin-right: 1px
+}
+
+.border {
+    border: 1px solid rgb(194, 193, 193); 
+    padding-left: 11px;
+     padding-right: 11px;
+      margin-left: 1px;
+       margin-right: 1px;
+}
+
+.alert-danger {
+    padding: 13px;
+    padding-left: 19px;
+     margin-top: 20px; 
+     margin-left: 10px;
+      margin-right: 10px;
+}
+
+.cards {
+    display: flex;
+    background-color: rgb(150, 152, 160);
+     padding-top: 15px;
+      padding-bottom: 12px;
+       padding-left: 1px;
+        font-size: 14px;
+        border-radius: 5px;
+         justify-content: space-between;
+         margin-left: 10px;
+}
